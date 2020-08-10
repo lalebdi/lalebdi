@@ -1,6 +1,6 @@
 ### Hi, I'm Leah 👋
 
-![Chrome_Dino_non-birthday_version align="center" width="100%"](https://user-images.githubusercontent.com/67381036/89749762-1a09fb00-da97-11ea-9e7d-2b745057545b.gif)
+<img align="center" alt="banner" width="100%" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
 
 - 🔭 I’m currently working on securing a position.
 - 🌱 I’m currently learning Python. 
