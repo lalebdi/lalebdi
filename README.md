@@ -11,10 +11,11 @@
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I am a runner , cook and a baker.
 <br />
+
 ### Connect with me:
 
-[<img align="left" alt="my website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="my profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="my website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="my profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 <br />
 
@@ -37,5 +38,6 @@
 
 <br />
 <br />
-[website]: https://
-[linkedin]: https://linkedin.com/
+
+//[website]: https://
+//[linkedin]: https://linkedin.com/
