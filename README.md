@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a new social media app.
 - 🌱 I’m currently learning Python & Django. 
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m looking for new challeneges.
 - 🤔 I’m looking for help with design ideas.
 - 💬 Ask me about JavaScript, Java and React.
 - 📫 How to reach me: LinkedIn.
