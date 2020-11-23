@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Swift. 
 - 👯 I’m looking for new challeneges.
 - 🤔 I’m looking for help with new social media features.
-- 💬 Ask me about JavaScript, Java and React.
+- 💬 Ask me about Python, JavaScript, Java and React.
 - 📫 How to reach me: LinkedIn.
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I am a runner , a cook and a baker.
