@@ -9,7 +9,7 @@
 - 💬 Ask me about Python, JavaScript, Java and React.
 - 📫 How to reach me: LinkedIn.
 - 😄 Pronouns: She/her.
-- ⚡ Fun fact: I am an athlete , a cook and a baker.
+- ⚡ Fun fact: I am an athlete , a cook.
 <br />
 
 ### Connect with me:
