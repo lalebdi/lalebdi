@@ -3,7 +3,7 @@
 <img align="center" alt="banner" width="100%" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
 
 - 🔭 I’m currently working on a microblogging social media app. Check Pop.
-- 🌱 I’m currently learning Swift. 
+- 🌱 I’m currently learning ML. 
 - 👯 I’m looking for new challeneges.
 - 🤔 I’m looking for help with new social media features.
 - 💬 Ask me about Python, JavaScript, Java and React.
