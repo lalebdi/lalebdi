@@ -15,7 +15,7 @@
 ### Connect with me:
 
 <a href="https://www.leahwebdev.com"> <img align="left" alt="my website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  /> </a>
-<a href="https://www.linkedin.com/in/leah-web-dev/"><img align="left" alt="my profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="www.linkedin.com/in/leah-swe/"><img align="left" alt="my profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br />
 
