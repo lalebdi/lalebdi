@@ -17,7 +17,7 @@
 <br>
 
 <a href="https://github.com/lalebdi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalebdi&hide=html,css,c&theme=dracula" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalebdi&hide=html,c++,c&theme=dracula&layout=compact" />
 </a>
 
 <a href="https://github.com/lalebdi">
