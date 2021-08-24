@@ -17,7 +17,7 @@
 
 
 <a href="https://github.com/lalebdi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lalebdi&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Leah's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" width="100%" src="https://github-readme-stats.vercel.app/api?username=lalebdi&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Leah's GitHub Stats" />
 </a>
 <!-- &title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34 &title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34-->
 
