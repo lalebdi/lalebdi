@@ -107,6 +107,6 @@
 <br />
 
 
-<a href="https://github.com/lalebdi">
+<!-- <a href="https://github.com/lalebdi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalebdi&theme=dracula&layout=compact" />
-</a>
+</a> -->
