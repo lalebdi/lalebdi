@@ -14,11 +14,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
 
-<a href="https://github.com/lalebdi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalebdi&theme=dracula&layout=compact" />
-</a>
 
 <a href="https://github.com/lalebdi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lalebdi&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Leah's GitHub Stats" />
@@ -111,3 +107,6 @@
 <br />
 
 
+<a href="https://github.com/lalebdi">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalebdi&theme=dracula&layout=compact" />
+</a>
