@@ -29,7 +29,7 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
