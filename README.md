@@ -52,11 +52,11 @@
 
 <br>
 
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Robot-informational?style=flat&logo=robot&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-PyTest-informational?style=flat&logo=pytest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Unittest-informational?style=flat&logo=unittest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-DocTest-informational?style=flat&logo=doctest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Nose2-informational?style=flat&logo=nose2&logoColor=white&color=4AB197)
 
 <br>
 
