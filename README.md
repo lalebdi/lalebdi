@@ -106,7 +106,7 @@
 <br />
 <br />
 
-
+[![Visits Badge](https://badges.pufler.dev/visits/lalebdi/lalebdi)](https:leahwebdev.com/)
 <!-- <a href="https://github.com/lalebdi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalebdi&theme=dracula&layout=compact" />
 </a> -->
