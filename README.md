@@ -49,11 +49,11 @@
 
 <br>
 
-![](https://img.shields.io/badge/Test-Robot-informational?style=flat&logo=robot&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-PyTest-informational?style=flat&logo=pytest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Unittest-informational?style=flat&logo=unittest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-DocTest-informational?style=flat&logo=doctest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Nose2-informational?style=flat&logo=nose2&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Robot-informational?style=flat&logo=robot&logoColor=white&color=9cf)
+![](https://img.shields.io/badge/Test-PyTest-informational?style=flat&logo=pytest&logoColor=white&color=9cf)
+![](https://img.shields.io/badge/Test-Unittest-informational?style=flat&logo=unittest&logoColor=white&color=9cf)
+![](https://img.shields.io/badge/Test-DocTest-informational?style=flat&logo=doctest&logoColor=white&color=9cf)
+![](https://img.shields.io/badge/Test-Nose2-informational?style=flat&logo=nose2&logoColor=white&color=9cf)
 
 <br>
 
