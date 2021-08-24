@@ -11,8 +11,7 @@
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I am an athlete , and a cook.
 <br />
-<br>
-<br>
+
 
 ## 💼 Skills
 
